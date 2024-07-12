@@ -2,3 +2,4 @@ streamlit==1.36.0
 joblib==1.4.2
 numpy==2.0.0
 tld==0.13
+lightgbm==4.4.0
